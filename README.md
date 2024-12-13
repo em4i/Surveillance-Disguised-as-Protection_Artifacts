@@ -5,7 +5,7 @@ Paper title: Surveillance Disguised as Protection: A Comparative Analysis of Sid
 Requested Badge: Available
 
 ## Description
-This repository contains the output of the static apk analysis in our paper **Surveillance Disguised as Protection: A Comparative Analysis of Sideloaded and In-Store Parental Control Apps**.
+This repository contains the output of the static apk analysis in our paper **Surveillance Disguised as Protection: A Comparative Analysis of Sideloaded and In-Store Parental Control Apps** as well as list of all apps and services found through our manual web search. The CSV also includes data from WHOIS records, Android app availability, Google Play Store links, and Tranco rankings.
 The artifacts consist of the output of the static apk analysis of both in-store and sideloaded parental control applications.
 The output files were created by the tools [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) and [Exodus Privacy](https://exodus-privacy.eu.org/en/) and were respectively put into the folders [mobsf](mobsf) and [exodus](exodus).
 

@@ -14,7 +14,7 @@ The artifacts do not hold any risk to the reviewer's machine and we are not awar
 
 ### Requirements
 No specific hardware or software required.
-The artifacts require around 15MB of disk space.
+The artifacts require around 38 MB of disk space.
 
 ### Accessibility (All badges)
 The artifacts are accessible through a public GitHub repository: https://github.com/em4i/Surveillance-Disguised-as-Protection_Artifacts
